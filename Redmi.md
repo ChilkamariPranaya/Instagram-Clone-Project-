@@ -15,20 +15,17 @@ It includes tables, relationships, and possibly queries to handle core functiona
 ## INSTALLATION
 
 1. Clone the repository:
-   ```bash
-  
-   ```
+2. 
+3. Set up a MySQL database server on your machine or use a remote database service.
 
-2. Set up a MySQL database server on your machine or use a remote database service.
+4. Open the SQL script file `Instagram.sql` in a database client (e.g., MySQL Workbench) or a command-line interface.
 
-3. Open the SQL script file `Instagram.sql` in a database client (e.g., MySQL Workbench) or a command-line interface.
-
-4. Run the script to create the database and its tables:
+5. Run the script to create the database and its tables:
    ```sql
    SOURCE /path/to/Instagram.sql;
    ```
 
-5. Verify the database structure and relationships.
+6. Verify the database structure and relationships.
 
 ## USAGE
 
