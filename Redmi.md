@@ -16,7 +16,7 @@ It includes tables, relationships, and possibly queries to handle core functiona
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PAVITRA1919/Instagram_database_clone.git
+  
    ```
 
 2. Set up a MySQL database server on your machine or use a remote database service.
